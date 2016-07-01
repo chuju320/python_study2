@@ -13,6 +13,10 @@ import time,sys,os,json,re,collections
 import cPickle as p
 import xml.dom.minidom as xmls
 from xml.etree.ElementTree import Element,ElementTree
+defaulten = sys.getdefaultencoding()
+reload(sys)
+sys.setdefaultencoding(defaulten)
+
 class bankCount:
     #global nameUser
     #global moneyToPay
@@ -29,17 +33,17 @@ class bankCount:
         '''登录网上银行'''
         print '--登录--'
         try:
-            print '如果可以获取username的 name 和 password属性值'
+            #print '如果可以获取username的 name 和 password属性值'
             name = self.xmlAttr(username,'name')
             paswd = self.xmlAttr(username,'password')
         except:
-            print '获取username的属性失败，需要注册'
+            #print '获取username的属性失败，需要注册'
             self.loginError()
         if name and password:
-            print 'name:',name
-            print 'paswd:',paswd
-            print 'username:',username
-            print 'password:',paswd
+            #print 'name:',name
+            #print 'paswd:',paswd
+            #print 'username:',username
+            #print 'password:',paswd
             if username == name and password==paswd:
                 self.hello(username)
             else:
@@ -49,36 +53,46 @@ class bankCount:
         '''登录进银行界面'''
         self.nameUser = username
         print '欢迎来到世纪银行，很高兴为您服务！'
+        print '请选择您的业务！'
         self.cmd(username)
 
     def cmd(self,username):
         message = zip(['1','2','3','4'],self.no)
+        print '='*40
+        print ' '*2,'-*-序 号-*-' + '    ' +'-*-业 务-*-'
         for i in range(len(message)):
-            print message[i][0] + '    ' +message[i][1]
+            print ' '*7,message[i][0] + '            ' +message[i][1]
+        print '='*40
         cmds = raw_input('请选择您的业务序号：').strip()
+
         if cmds:
             if ord(cmds)==49:
                 print '+'*45
                 print '|             个人信息查询中心！              |'
                 print '+'*45
+                time.sleep(1)
                 self.chaXun(username)
             elif ord(cmds)==50:
                 print '+'*45
                 print '|             欢迎进入购物中心！              |'
                 print '+'*45
+                time.sleep(1)
                 self.shop(username)
             elif ord(cmds)==51:
                 print '+'*45
                 print '|             欢迎进入充值中心！              |'
                 print '+'*45
+                time.sleep(1)
                 self.huanKuan()
             elif ord(cmds)==52:
                 print '+'*45
                 print '|             账号收支记录中心！              |'
                 print '+'*45
+                time.sleep(1)
                 self.detial()
             else:
                 print '您输入的指令有误，请确认后重新输入！'
+                time.sleep(0.5)
                 self.cmd(username)
         else:
             print '您的序号输入有误，请重新输入！'
@@ -101,10 +115,17 @@ class bankCount:
     def chaXun(self,username):
         '''查询余额'''
         print '以下为您的最新余额信息：'
+        print '~'*80
         counts = self.xmlAttr(username,'count')
         times = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime())
-        print 'counts:',counts
-        print '截止',times,'，您的账户余额是：' ,counts
+        #print 'counts:',counts
+        comment = u'%s%s%s%s'% (u'截止',str(times),u'，您的账户余额是：' ,str(counts))
+        for i in comment:
+            print i,
+            time.sleep(0.1)
+        print
+        print '~'*80
+        time.sleep(2)
         self.yon(username)
     def shop(self,username):
         '''购物'''
@@ -116,13 +137,16 @@ class bankCount:
         shopList = {'水果':fruit,'蔬菜':vagetables,'零食':sock,'日用品':tools,'服装':dress}
         print '您好，欢迎来到购物中心，请选择要购买的物品！'
         lists = zip([i for i in range(len(shopList.keys()))],shopList.keys())
+        print '*'*40
+        print ' '*6,'< 序 号 >','   ','< 类 别 >'
         while 1:
             for i in range(len(lists)):
-                print lists[i][0],'   ',lists[i][1]
+                print ' '*9,lists[i][0],' '*10,lists[i][1]
+            print '*'*40
             num = raw_input('请输入序号进入相应的购物区：').strip()
             if num and ord(num)<=ord(str(len(shopList.keys()))):
                 num = int(num)
-                print 'shopList[lists[num][1]]:',shopList[lists[num][1]]
+                #print 'shopList[lists[num][1]]:',shopList[lists[num][1]]
                 self.shopping(lists[num][1],shopList[lists[num][1]])#shopList[lists[num][1]]是对应的物品list
             else:
                 print '您输入的序号不正确，请重新输入！'
@@ -136,12 +160,14 @@ class bankCount:
         while 1:
             n_v_list = zip([i for i in range(len(nameList))],nameList.keys(),nameList.values())
             print '-'*80
+            print ' '*6,'序号',' '*4,'价格',' '*4,'名称'
             for i in range(len(n_v_list)):
                 n = 0
                 a =  n_v_list[i][0],' '*2,n_v_list[i][1],' '*2,n_v_list[i][2]
                 for j in a:
                     n += len(str(j))
-                print ' '*6,a[0],' '*4,a[2],' '*4,a[4]
+                print '       %-9s￥%-9s%-10s'%(a[0],a[4],a[2])
+                #print ' '*6,a[0],' '*6,a[2],' '*4,a[4]
             print '-'*80
             num = raw_input('请输入商品序号：').strip()  #n_v_list[num][1] 是商品的名字，也是nameList的key
             if num.isdigit() and int(num)<=len(nameList.keys()):
@@ -151,15 +177,15 @@ class bankCount:
                     num2 = raw_input('请输入你需要多少数量/斤：').strip()
                     if num2 and num2.isdigit():
                         keyName = n_v_list[num][1]
-                        print '您好，您的选择是:\n  名称：%s    数量：%s'%(keyName,num2)
+                        print '您好，您本次购物:\n        名称：%s    数量：%s'%(keyName,num2)
                         times = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime())
-                        print 'keyName:',keyName
-                        print 'num2:',num2
+                        #print 'keyName:',keyName
+                        #print 'num2:',num2
                         dicts = collections.OrderedDict()
                         dicts[keyName]=num2
                         self.countDict[times]=dicts
                         self.nowDict[times]=dicts
-                        print 'self.countDict:',self.countDict
+                        #print 'self.countDict:',self.countDict
                         self.jiSuan(self.nowDict,nameList)
                         while 1:
                             cmd = raw_input('您是否需要继续购物：\n  1:是\n  2:否\n输入指令：').strip()
@@ -200,17 +226,23 @@ class bankCount:
         #items={ 时间 ：{ 物品 ： 数量 } }
         #keyName:商品名，用来从商品列表中获取价格
         #nameList:商品列表
-        print '您本次购物信息如下：'
+        print
+        print '您目前的购物车信息如下：'
         keysList = items.keys()
-        print 'items:',items
-        print 'keysList:',keysList
-
+        keysList2 = self.countDict.keys()
+       # print 'items:',items
+       # print 'keysList:',keysList
+        for i in keysList2:
+            name2 = self.countDict[i].keys()[0]
+            num2 = self.countDict[i].values()[0]
+            print '        %s 数量: %s'%(name2,num2)
+        print
         for i in keysList:
-            print 'items[i].keys()',items[i].keys()
+            #print 'items[i].keys()',items[i].keys()
             shopName = items[i].keys()[0]
             shopNums = items[i].values()[0]
-            print 'nameList:',nameList
-            print 'shopName:',shopName
+            #print 'nameList:',nameList
+            #print 'shopName:',shopName
             values = nameList[shopName]
             a =  i +'   '+shopName+' 数量 '+shopNums+'\n'
             self.shopList += a
@@ -221,7 +253,7 @@ class bankCount:
         '''改动余额，如果how为True，则充值；如果how为False，则扣款，不足时提示；均返回最后余额'''
         #menoy:改动的金额
         #how:True则充值，False则扣款
-        print 'self.nameUser:',self.nameUser
+        #print 'self.nameUser:',self.nameUser
         nameusers = self.nameUser
         count = self.xmlAttr(nameusers,'count')
         if how:
@@ -237,12 +269,12 @@ class bankCount:
                 self.changeXml(self.nameUser,'count',(int(count)-int(menoy)))
                 print '支付成功，您目前的余额是%s'%(int(count)-int(menoy))
                 detials = ''
-                print 'self.countDict:',self.countDict
+               # print 'self.countDict:',self.countDict
                 for i in self.countDict.keys():
-                    print 'self.countDict[i][0]:',self.countDict[i].keys()[0]
-                    print 'self.countDict[i][1]:',self.countDict[i].values()[0]
+                    #print 'self.countDict[i][0]:',self.countDict[i].keys()[0]
+                    #print 'self.countDict[i][1]:',self.countDict[i].values()[0]
                     detials += ' %s*%s '%(self.countDict[i].keys()[0],self.countDict[i].values()[0])
-                print 'detials:',detials
+               # print 'detials:',detials
 
                 self.write('支付 %s，总共%s元'%(detials,menoy))
                 self.countDict = collections.OrderedDict()
@@ -309,7 +341,11 @@ class bankCount:
 
     def huanKuan(self):
         '''存款系统'''
+        print
+        print '~'*50
         money = raw_input('请输入您要充值的金额:').strip()
+        print '~'*50
+        print
         if money and money.isdigit():
             self.total(money)
             return
@@ -319,11 +355,13 @@ class bankCount:
         self.yon(self.nameUser)
     def detial(self):
         '''账号消费充值记录'''
-        print '以下为您的最新交易信息：'
+        print '以下为您的最新交易信息：\n'
+        print '~'*100
         detials =  self.xmlAttr2(self.nameUser,'countDetial')
         for i in  detials.keys():
             print i, ' ',detials[i]
-
+        print '~'*100
+        print
         self.yon(self.nameUser)
     def loginError(self):
         '''登录失败'''
@@ -358,13 +396,13 @@ class bankCount:
                         password = raw_input(u'请输入您的6位数字密码：').strip()
                         if password and password.isdigit() and len(password)==6:
                             if os.path.exists('data.xml'):
-                                print '如果存在data.xml'
+                                #print '如果存在data.xml'
                                 self.login(username,password)
                                 return
                             else:
-                                print '如果不存在data.xml'
+                                #print '如果不存在data.xml'
                                 self.files()
-                                print 'data.xml文件创建完毕，进行登录'
+                                #print 'data.xml文件创建完毕，进行登录'
                                 self.login(username,password)
                                 return
                         else:
@@ -390,12 +428,12 @@ class bankCount:
         f = open(files,'w')
         dom.writexml(f,addindent='  ',newl='\n')
         f.close()
-        print 'data.xml文件创建完毕，进行登录'
+        #print 'data.xml文件创建完毕，进行登录'
         return
     def regist(self):
         '''注册'''
         if os.path.exists('data.xml'):
-            print '如果存在data.xml'
+            #print '如果存在data.xml'
             userName = raw_input('请输入您的账户名，以字母开头：').strip()
             if not self.xmlTag(userName):
                 while userName[0].isalpha():
@@ -429,7 +467,7 @@ class bankCount:
                     else:
                         print '您输入的指令有误，请重新输入！'
         else:
-            print '如果不存在data.xml'
+            #print '如果不存在data.xml'
             self.files()
             self.regist()
     def changeXml(self,tagName,Name,values,files='data.xml'):
@@ -454,9 +492,9 @@ class bankCount:
         tree = ElementTree()
         tree.parse(files) #打开文件
         first = tree.find('countDetial')
-        print 'first',first
+        #print 'first',first
         notes = tree.findall('countDetial/%s'%tagName) #获取符合条件的所有节点
-        print 'notes',notes
+        #print 'notes',notes
         if len(notes) != 0:
             if type(values) is not str and type(values) is not int:
                 notes[0].set(Name,'collections.%s'%values)
@@ -480,22 +518,22 @@ class bankCount:
         '''获取xml文件中的属性值'''
         #tagName:标签名
         #attr:属性名
-        print '--获取%s的%s属性--'%(tagName,attr)
+        #print '--获取%s的%s属性--'%(tagName,attr)
         dom = xmls.parse(files)
         data = dom.getElementsByTagName(tagName)
         value = data[0].getAttribute(attr)
-        print '获取到的属性值',value
+        #print '获取到的属性值',value
         return value
 
     def xmlAttr2(self,tagName,attr,files='data.xml'):
         '''获取xml文件中的属性值'''
         #tagName:标签名
         #attr:属性名
-        print '--获取%s的%s属性--'%(tagName,attr)
+        #print '--获取%s的%s属性--'%(tagName,attr)
         dom = xmls.parse(files)
         data = dom.getElementsByTagName(tagName)
         value = data[0].getAttribute(attr)
-        print '获取到的属性值',value
+        #print '获取到的属性值',value
         return eval(value)
 
     def xmlTag(self,userName,files='data.xml'):
