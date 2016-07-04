@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <eBank>
-  <countDetial><admins count="15000" countDetial="collections.OrderedDict([])" name="admins" password="123456" /><admin count="17428" countDetial="collections.OrderedDict([('16-07-04 12:52:45', '\xe6\x94\xaf\xe4\xbb\x98  \xe6\xb4\x97\xe5\x8f\x91\xe6\xb0\xb4*2 \xef\xbc\x8c\xe6\x80\xbb\xe5\x85\xb140\xe5\x85\x83'), ('16-07-04 12:53:23', '\xe5\x85\x85\xe5\x80\xbc16194\xe5\x85\x83'), ('16-07-04 12:57:19', '\xe5\x85\x85\xe5\x80\xbc17428\xe5\x85\x83')])" name="admin" password="123456" /></countDetial>
+  <countDetial><admin count="15000" countDetial="collections.OrderedDict([])" name="admin" password="e10adc3949ba59abbe56e057f20f883e" /></countDetial>
 </eBank>

@@ -9,7 +9,7 @@
     5.提供还款接口
     6.每月10号为还款日，过期未还，按欠款额的5%计息
 '''
-import time,sys,os,json,re,collections
+import time,sys,os,json,re,collections,md5,hashlib
 import cPickle as p
 import xml.dom.minidom as xmls
 from xml.etree.ElementTree import Element,ElementTree
@@ -44,7 +44,10 @@ class bankCount:
             #print 'paswd:',paswd
             #print 'username:',username
             #print 'password:',paswd
-            if username == name and password==paswd:
+            hashs = hashlib.md5()
+            hashs.update(password)
+            passwords = hashs.hexdigest()
+            if username == name and passwords==paswd:
                 self.hello(username)
             else:
                 self.loginError()
@@ -463,8 +466,11 @@ class bankCount:
                 while userName[0].isalpha():
                     password = raw_input('请输入6位数字密码:').strip()
                     if len(password)==6 and password.isdigit():
+                        hashs = hashlib.md5()
+                        hashs.update(password)
+                        passwords = hashs.hexdigest()
                         self.writeXml(userName,'name',userName)
-                        self.changeXml(userName,'password',password)
+                        self.changeXml(userName,'password',passwords)
                         self.changeXml(userName,'count','15000')
                         self.changeXml(userName,'countDetial',"collections.OrderedDict([])")
                         print '注册完成，自动进行登录'
