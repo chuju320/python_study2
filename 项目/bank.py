@@ -1,4 +1,5 @@
-#-*-coding:utf-8-*-
+#coding:utf-8
+
 '''
 网上银行
 功能：
@@ -13,9 +14,12 @@ import time,sys,os,json,re,collections
 import cPickle as p
 import xml.dom.minidom as xmls
 from xml.etree.ElementTree import Element,ElementTree
-defaulten = sys.getdefaultencoding()
+import sys
+types = sys.getfilesystemencoding()
 reload(sys)
-sys.setdefaultencoding(defaulten)
+sys.setdefaultencoding(types)
+
+
 
 class bankCount:
     #global nameUser
@@ -25,7 +29,7 @@ class bankCount:
         self.payMoney = 0
         self.nameUser = ''
         self.moneyToPay = ''
-        self.no = [u'查询',u'购物',u'还款',u'账单']
+        self.no = ['查询','购物','还款','账单']
         self.countDict = collections.OrderedDict()#总购物清单
         self.nowDict = collections.OrderedDict()#临时清单
         self.times = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime())
@@ -52,58 +56,60 @@ class bankCount:
     def hello(self,username):
         '''登录进银行界面'''
         time.sleep(0.5)
-        print '登陆成功！'
+        print '登陆成功！'.decode('utf-8').encode(types)
         self.nameUser = username
         time.sleep(0.5)
-        print '欢迎来到世纪银行，很高兴为您服务！'
-        print '请选择您的业务！'
+        print '欢迎来到世纪银行，很高兴为您服务！'.decode('utf-8').encode(types)
+        time.sleep(0.5)
+        print '请选择您的业务！'.decode('utf-8').encode(types)
         self.cmd(username)
 
     def cmd(self,username):
         message = zip(['1','2','3','4'],self.no)
         print '='*40
-        print ' '*2,'-*-序 号-*-' + '    ' +'-*-业 务-*-'
+        print ' '*2,'-*-序 号-*-'.decode('utf-8').encode(types) + '    ' +'-*-业 务-*-'.decode('utf-8').encode(types)
         for i in range(len(message)):
-            print ' '*7,message[i][0] + '            ' +message[i][1]
+            print ' '*7,message[i][0].decode('utf-8').encode(types) + '            ' +message[i][1].decode('utf-8').encode(types)
         print '='*40
-        cmds = raw_input('请选择您的业务序号：').strip()
+        cmds = raw_input('请选择您的业务序号：'.decode('utf-8').encode(types)).strip()
 
         if cmds:
             if ord(cmds)==49:
                 print '+'*45
-                print '|             个人信息查询中心！              |'
+                print '|             个人信息查询中心！              |'.decode('utf-8').encode(types)
                 print '+'*45
                 time.sleep(1)
                 self.chaXun(username)
             elif ord(cmds)==50:
                 print '+'*45
-                print '|             欢迎进入购物中心！              |'
+                print '|             欢迎进入购物中心！              |'.decode('utf-8').encode(types)
                 print '+'*45
                 time.sleep(1)
                 self.shop(username)
             elif ord(cmds)==51:
                 print '+'*45
-                print '|             欢迎进入充值中心！              |'
+                print '|             欢迎进入充值中心！              |'.decode('utf-8').encode(types)
                 print '+'*45
                 time.sleep(1)
-                self.huanKuan()
+                #self.huanKuan()
+                self.moreMenoy()
             elif ord(cmds)==52:
                 print '+'*45
-                print '|             账号收支记录中心！              |'
+                print '|             账号收支记录中心！              |'.decode('utf-8').encode(types)
                 print '+'*45
                 time.sleep(1)
                 self.detial()
             else:
-                print '您输入的指令有误，请确认后重新输入！'
+                print '您输入的指令有误，请确认后重新输入！'.decode('utf-8').encode(types)
                 time.sleep(0.5)
                 self.cmd(username)
         else:
-            print '您的序号输入有误，请重新输入！'
+            print '您的序号输入有误，请重新输入！'.decode('utf-8').encode(types)
     def yon(self,username):
         '''每个指令的返回和重新执行动作'''
         while 1:
-            print '下一步操作：\n  1  返回主菜单\n  2  退出系统'
-            num = raw_input('请输入指令：').strip()
+            print '下一步操作：\n  1  返回主菜单\n  2  退出系统'.decode('utf-8').encode(types)
+            num = raw_input('请输入指令：'.decode('utf-8').encode(types)).strip()
             if num:
                 if ord(num)==49:
                     self.cmd(username)
@@ -111,23 +117,25 @@ class bankCount:
                 elif ord(num)==50:
                     self.close()
                 else:
-                    print '您输入的指令有误，请确认后输入！'
+                    print '您输入的指令有误，请确认后输入！'.decode('utf-8').encode(types)
                     time.sleep(0.5)
             else:
-                print '您的指令有误，请重新输入！'
+                print '您的指令有误，请重新输入！'.decode('utf-8').encode(types)
                 time.sleep(0.5)
 
     def chaXun(self,username):
         '''查询余额'''
-        print '以下为您的最新余额信息：'
+        print '以下为您的最新余额信息：'.decode('utf-8').encode(types)
         print '~'*80
         counts = self.xmlAttr(username,'count')
         times = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime())
         #print 'counts:',counts
-        comment = u'%s%s%s%s'% (u'截止',str(times),u'，您的账户余额是：' ,str(counts))
-        for i in comment:
+        print times
+        #comment = '截止目前为止，您的账户余额是：'
+        for i in '截止目前为止，您的账户余额是：'.decode('utf-8'):
             print i,
             time.sleep(0.1)
+        print counts
         print
         print '~'*80
         time.sleep(2)
@@ -140,51 +148,52 @@ class bankCount:
         tools = {'卫生纸':2,'毛巾':15,'垃圾袋':10,'洗发水':20,'拖布':15,'收纳盒':18}
         dress = {'西服':204,'T恤':85,'裙子':245,'短裤':152,'风衣':180,'羽绒服':208}
         shopList = {'水果':fruit,'蔬菜':vagetables,'零食':sock,'日用品':tools,'服装':dress}
-        print '您好，欢迎来到购物中心，请选择要购买的物品！'
+        print '您好，欢迎来到购物中心，请选择要购买的物品！'.decode('utf-8').encode(types)
         lists = zip([i for i in range(len(shopList.keys()))],shopList.keys())
 
         while 1:
             print '*'*40
-            print ' '*6,'< 序 号 >','   ','< 类 别 >'
+            print ' '*6,'< 序 号 >'.decode('utf-8').encode(types),'   ','< 类 别 >'.decode('utf-8').encode(types)
             for i in range(len(lists)):
-                print ' '*9,lists[i][0],' '*10,lists[i][1]
+                print ' '*9,lists[i][0],' '*10,lists[i][1].decode('utf-8').encode(types)
             print '*'*40
-            num = raw_input('请输入序号进入相应的购物区：').strip()
+            num = raw_input('请输入序号进入相应的购物区：'.decode('utf-8').encode(types)).strip()
             if num and ord(num)<ord(str(len(shopList.keys()))):
                 num = int(num)
                 #print 'shopList[lists[num][1]]:',shopList[lists[num][1]]
                 self.shopping(lists[num][1],shopList[lists[num][1]])#shopList[lists[num][1]]是对应的物品list
             else:
-                print '您输入的序号不正确，请重新输入！'
+                print '您输入的序号不正确，请重新输入！'.decode('utf-8').encode(types)
                 time.sleep(0.5)
 
     def shopping(self,name,nameList):
         '''购物区，根据不同的商品列表返回相应的内容'''
         #name:选择的商品区域
         #nameList:选择的商品列表
-        print '欢迎来到%s购物区，请浏览商品列表，并输入你需要购物的物品序号！'%name
+        print '欢迎来到%s购物区，请浏览商品列表，并输入你需要购物的物品序号！'.decode('utf-8').encode(types)%name
 
         while 1:
             n_v_list = zip([i for i in range(len(nameList))],nameList.keys(),nameList.values())
             print '-'*80
-            print ' '*6,'序号',' '*4,'价格',' '*4,'名称'
+            print ' '*6,'序号'.decode('utf-8').encode(types),' '*4,'价格'.decode('utf-8').encode(types),' '*4,'名称'.decode('utf-8').encode(types)
             for i in range(len(n_v_list)):
                 n = 0
                 a =  n_v_list[i][0],' '*2,n_v_list[i][1],' '*2,n_v_list[i][2]
                 for j in a:
                     n += len(str(j))
-                print '       %-9s￥%-9s%-10s'%(a[0],a[4],a[2])
+                print '       %-9s￥%-9s%-10s'.decode('utf-8').encode(types)%(a[0],a[4],a[2].decode('utf-8').encode(types))
                 #print ' '*6,a[0],' '*6,a[2],' '*4,a[4]
             print '-'*80
-            num = raw_input('请输入商品序号：').strip()  #n_v_list[num][1] 是商品的名字，也是nameList的key
+            num = raw_input('请输入商品序号：'.decode('utf-8').encode(types)).strip()  #n_v_list[num][1] 是商品的名字，也是nameList的key
             if num.isdigit() and int(num)<len(nameList.keys()):
                 a = 1
                 num = int(num)
                 while a ==1:
-                    num2 = raw_input('请输入你需要多少数量/斤：').strip()
+                    num2 = raw_input('请输入你需要多少数量/斤：'.decode('utf-8').encode(types)).strip()
                     if num2 and num2.isdigit():
                         keyName = n_v_list[num][1]
-                        print '您好，您本次购物:\n        名称：%s    数量：%s'%(keyName,num2)
+                        nm =  '您好，您本次购物:\n        名称：%s    数量：%s'%(keyName,num2)
+                        print nm.decode('utf-8').encode(types)
                         times = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime())
                         #print 'keyName:',keyName
                         #print 'num2:',num2
@@ -195,38 +204,39 @@ class bankCount:
                         #print 'self.countDict:',self.countDict
                         self.jiSuan(self.nowDict,nameList)
                         while 1:
-                            cmd = raw_input('您是否需要继续购物：\n  1:是\n  2:否\n输入指令：').strip()
+                            cmd = raw_input('您是否需要继续购物：\n  1:是\n  2:否\n输入指令：'.decode('utf-8').encode(types)).strip()
                             if cmd:
                                 if ord(cmd)==49:
                                     return
 
                                 elif ord(cmd)==50:
-                                    print '进入结算系统！'
+                                    print '进入结算系统！'.decode('utf-8').encode(types)
                                     self.pay()
                                     return
                                 else:
-                                    print '您的操作有误，请重新输入！'
+                                    print '您的操作有误，请重新输入！'.decode('utf-8').encode(types)
                                     time.sleep(0.5)
                             else:
-                                print '请输入有效指令！'
+                                print '请输入有效指令！'.decode('utf-8').encode(types)
                                 time.sleep(0.5)
                                 break
                     else:
-                        print '您好，请输入正确的数字！'
+                        print '您好，请输入正确的数字！'.decode('utf-8').encode(types)
                         time.sleep(0.5)
             else:
-                print '您好，您输入的商品号不存在，请重新输入！'
+                print '您好，您输入的商品号不存在，请重新输入！'.decode('utf-8').encode(types)
                 time.sleep(0.5)
 
     def pay(self):
         '''结算支付系统'''
         #shopList:购物清单
         #payMoney：支付金额
-        print '欢迎进入支付系统！您的购物清单如下：'
-        print self.shopList
-        print '您总共需要支付￥%s的费用！'%self.payMoney
+        print '欢迎进入支付系统！您的购物清单如下：'.decode('utf-8').encode(types)
+        nm =  self.shopList
+        print nm.decode('utf-8').encode(types)
+        print '您总共需要支付￥%s的费用！'.decode('utf-8').encode(types)%self.payMoney
         self.moneyToPay = self.payMoney
-        print '结算中',
+        print '结算中'.decode('utf-8').encode(types),
         for i in '.'*5:
             print i,
             time.sleep(0.5)
@@ -238,7 +248,7 @@ class bankCount:
         #keyName:商品名，用来从商品列表中获取价格
         #nameList:商品列表
         print
-        print '您目前的购物车信息如下：'
+        print '您目前的购物车信息如下：'.decode('utf-8').encode(types)
         keysList = items.keys()
         keysList2 = self.countDict.keys()
        # print 'items:',items
@@ -246,7 +256,8 @@ class bankCount:
         for i in keysList2:
             name2 = self.countDict[i].keys()[0]
             num2 = self.countDict[i].values()[0]
-            print '        %s 数量: %s'%(name2,num2)
+            nm =  '        %s 数量: %s'%(name2,num2)
+            print nm.decode('utf-8').encode(types)
         print
         for i in keysList:
             #print 'items[i].keys()',items[i].keys()
@@ -271,14 +282,14 @@ class bankCount:
             self.changeXml(nameusers,'count',(int(count)+int(menoy)))
             time.sleep(1)
             self.write('充值金额：%s'%int(menoy))
-            print '充值成功！'
+            print '充值成功！'.decode('utf-8').encode(types)
             time.sleep(1)
-            print '您目前的余额是%s'%(int(count)+int(menoy))
+            print '您目前的余额是%s'.decode('utf-8').encode(types)%(int(count)+int(menoy))
             self.yon(nameusers)
         else:
             if int(count) > int(menoy):
                 self.changeXml(self.nameUser,'count',(int(count)-int(menoy)))
-                print '支付成功，您目前的余额是%s'%(int(count)-int(menoy))
+                print '支付成功，您目前的余额是%s'.decode('utf-8').encode(types)%(int(count)-int(menoy))
                 detials = ''
                # print 'self.countDict:',self.countDict
                 for i in self.countDict.keys():
@@ -293,15 +304,15 @@ class bankCount:
                 self.payMoney = 0
                 self.yon(self.nameUser)
             else:
-                print '抱歉，您的余额不足，你需要支付的金额是%s，您的账户余额是%s'%(menoy,count)
+                print '抱歉，您的余额不足，你需要支付的金额是%s，您的账户余额是%s'.decode('utf-8').encode(types)%(menoy,count)
                 while 1:
-                    cmd = raw_input('请问您需要去充值页面吗？选择1进入充值页面，选择2停留在当前页面：').strip()
+                    cmd = raw_input('请问您需要去充值页面吗？选择1进入充值页面，选择2停留在当前页面：'.decode('utf-8').encode(types)).strip()
                     if cmd:
                         if ord(cmd) == 49:
                             self.moreMoney()
                             n =1
                             while n == 1:
-                                cmd = raw_input('您是否需要继续支付？\n   按1继续支付\n   按2退出支付\n选择：').strip()
+                                cmd = raw_input('您是否需要继续支付？\n   按1继续支付\n   按2退出支付\n选择：'.decode('utf-8').encode(types)).strip()
                                 if cmd and cmd.isdigit():
                                     if ord(cmd)==49:
                                         n =2
@@ -310,18 +321,18 @@ class bankCount:
                                         n =2
                                         self.yon(self.nameUser)
                                     else:
-                                        print '你的输入指令有误，请重新输入！'
+                                        print '你的输入指令有误，请重新输入！'.decode('utf-8').encode(types)
                                         time.sleep(0.5)
                                 else:
-                                    print '您好，您输入的指令无效！'
+                                    print '您好，您输入的指令无效！'.decode('utf-8').encode(types)
                                     time.sleep(0.5)
                         elif ord(cmd)==50:
                             self.yon(self.nameUser)
                         else:
-                            print '您的输入有误，请重新选择！'
+                            print '您的输入有误，请重新选择！'.decode('utf-8').encode(types)
                             time.sleep(0.5)
                     else:
-                        print '请输入指令！'
+                        print '请输入指令！'.decode('utf-8').encode(types)
                         time.sleep(0.5)
                         break
     def write(self,detials,files='data.xml'):
@@ -334,26 +345,27 @@ class bankCount:
 
     def moreMenoy(self):
         '''存款充值页面'''
-        money = raw_input('请输入您要充值的金额（一次最多10000元，总金额上限100000元）：').strip()
+        money = raw_input('请输入您要充值的金额（一次最多10000元，总金额上限100000元）：'.decode('utf-8').encode(types)).strip()
         if money and money.isdigit():
             if int(money) <= 10000:
                 now = self.xmlAttr(self.nameUser,'count')
                 now2 = int(now)+int(money)
                 if int(now2) <= 100000:
                     self.changeXml(self.nameUser,'count',now2)
-                    print '充值成功，您目前的余额是：%s元'%now2
+                    print '充值成功，您目前的余额是：%s元'.decode('utf-8').encode(types)%now2
                     self.write('充值%s元'%now2)
-                    return
+                    time.sleep(0.5)
+                    self.yon(self.nameUser)
                 else:
-                    print '对不起，您（穷）的（逼）余（你）额（有）已（这）超（多）上（钱）限（么）！'
+                    print '对不起，您（穷）的（逼）余（你）额（有）已（这）超（多）上（钱）限（么）！'.decode('utf-8').encode(types)
                     time.sleep(1)
                     self.moreMenoy()
             else:
-                print '您好，单次充值金额不能大于10000，请重新输入金额！'
+                print '您好，单次充值金额不能大于10000，请重新输入金额！'.decode('utf-8').encode(types)
                 time.sleep(1)
                 self.moreMenoy()
         else:
-            print '对不起，您输入的金额无效，如果有钱就请输入合理的数字，如果没钱就请滚粗！'
+            print '对不起，您输入的金额无效，如果有钱就请输入合理的数字，如果没钱就请滚粗！'.decode('utf-8').encode(types)
             time.sleep(1)
             self.moreMenoy()
 
@@ -361,60 +373,60 @@ class bankCount:
         '''存款系统'''
         print
         print '~'*50
-        money = raw_input('请输入您要充值的金额:').strip()
+        money = raw_input('请输入您要充值的金额:'.decode('utf-8').encode(types)).strip()
         print '~'*50
         print
         if money and money.isdigit():
             self.total(money)
             return
         else:
-            print '请输入合法的金额！'
+            print '请输入合法的金额！'.decode('utf-8').encode(types)
             self.huanKuan()
         self.yon(self.nameUser)
     def detial(self):
         '''账号消费充值记录'''
-        print '以下为您的最新交易信息：\n'
-        print '~'*100
+        print '以下为您的最新交易信息：\n'.decode('utf-8').encode(types)
+        print '~'*80
         detials =  self.xmlAttr2(self.nameUser,'countDetial')
         for i in  detials.keys():
-            print i, ' ',detials[i]
-        print '~'*100
+            print i, ' ',detials[i].decode('utf-8').encode(types)
+        print '~'*80
         print
         self.yon(self.nameUser)
     def loginError(self):
         '''登录失败'''
         #print '--登录失败--'
-        print '登录失败!'
+        print '登录失败!'.decode('utf-8').encode(types)
         while 1:
-            order = raw_input('您好，你的账号或密码错误，\n    选择1可重新输入\n    选择2可进行注册\n请选择:').strip()
+            order = raw_input('您好，你的账号或密码错误，\n    选择1可重新输入\n    选择2可进行注册\n请选择:'.decode('utf-8').encode(types)).strip()
             if order and len(order)==1 and order.isdigit():
                 if ord(order) == 49:
-                    print '--重新输入--'
+                    #print '--重新输入--'
                     self.start()
                     return
                 elif ord(order) == 50:
-                    print '--注册--'
+                    #print '--注册--'
                     self.regist()
                     return
                 else:
-                    print '您好，您的指令输入有误，请确认后输入！'
+                    print '您好，您的指令输入有误，请确认后输入！'.decode('utf-8').encode(types)
                     time.sleep(0.5)
             else:
-                print '您好，您的指令输入有误，请确认后输入！'
+                print '您好，您的指令输入有误，请确认后输入！'.decode('utf-8').encode(types)
                 time.sleep(0.5)
 
     def start(self):
         '''程序开始'''
         #print '--开始--'
-        cmds = raw_input('    登录请按1\n    注册请按2\n指令：').strip()
+        cmds = raw_input('    登录请按1\n    注册请按2\n指令：'.decode('utf-8').encode(types)).strip()
         if cmds and cmds.isdigit():
             if ord(cmds)==49:
                 #print '--输入账户--'
-                username = raw_input(u'请输入您的账户：').strip()
+                username = raw_input('请输入您的账户：'.decode('utf-8').encode(types)).strip()
                 if username:
                     while 1:
                         #print '--输入密码--'
-                        password = raw_input(u'请输入您的6位数字密码：').strip()
+                        password = raw_input('请输入您的6位数字密码：'.decode('utf-8').encode(types))
                         if password and password.isdigit() and len(password)==6:
                             if os.path.exists('data.xml'):
                                 #print '如果存在data.xml'
@@ -427,7 +439,7 @@ class bankCount:
                                 self.login(username,password)
                                 return
                         else:
-                            print '您的密码无效，请重新输入，有效密码为6位数字！'
+                            print '您的密码无效，请重新输入，有效密码为6位数字！'.decode('utf-8').encode(types)
                             time.sleep(0.5)
                 else:
                     self.start()
@@ -435,11 +447,11 @@ class bankCount:
                 self.regist()
                 self.start()
             else:
-                print '您输入的指令有误！'
+                print '您输入的指令有误！'.decode('utf-8').encode(types)
                 time.sleep(0.5)
                 self.start()
         else:
-            print '您输入的指令有误！'
+            print '您输入的指令有误！'.decode('utf-8').encode(types)
             time.sleep(0.5)
             self.start()
     def files(self,files='data.xml'):
@@ -458,30 +470,30 @@ class bankCount:
         '''注册'''
         if os.path.exists('data.xml'):
             #print '如果存在data.xml'
-            userName = raw_input('请输入您的账户名，以字母开头：').strip()
+            userName = raw_input('请输入您的账户名，以字母开头：'.decode('utf-8').encode(types)).strip()
             if not self.xmlTag(userName):
                 while userName[0].isalpha():
-                    password = raw_input('请输入6位数字密码:').strip()
+                    password = raw_input('请输入6位数字密码:'.decode('utf-8').encode(types)).strip()
                     if len(password)==6 and password.isdigit():
                         self.writeXml(userName,'name',userName)
                         self.changeXml(userName,'password',password)
                         self.changeXml(userName,'count','15000')
                         self.changeXml(userName,'countDetial',"collections.OrderedDict([])")
-                        print '注册完成，自动进行登录'
+                        print '注册完成，自动进行登录'.decode('utf-8').encode(types)
                         self.login(userName,password)
                         break
                     else:
-                        print '请输入6位数字密码！'
+                        print '请输入6位数字密码！'.decode('utf-8').encode(types)
                         time.sleep(0.5)
                 else:
-                    print '您输入的账号格式有误，请重新输入！'
+                    print '您输入的账号格式有误，请重新输入！'.decode('utf-8').encode(types)
                     time.sleep(0.5)
                     self.regist()
             else:
-                print '你输入的账号已存在，请直接登录或重新输入！'
+                print '你输入的账号已存在，请直接登录或重新输入！'.decode('utf-8').encode(types)
                 time.sleep(0.5)
                 while 1:
-                    num = raw_input('1  登录\n2  重新注册').strip()
+                    num = raw_input('1  登录\n2  重新注册'.decode('utf-8').encode(types)).strip()
                     if num and num.isdigit():
                         if ord(num)==49:
                             self.start()
@@ -490,10 +502,10 @@ class bankCount:
                             self.regist()
                             break
                         else:
-                            print '您输入的指令有误，请重新输入！'
+                            print '您输入的指令有误，请重新输入！'.decode('utf-8').encode(types)
                             time.sleep(0.5)
                     else:
-                        print '您输入的指令有误，请重新输入！'
+                        print '您输入的指令有误，请重新输入！'.decode('utf-8').encode(types)
                         time.sleep(0.5)
         else:
             #print '如果不存在data.xml'
@@ -576,7 +588,7 @@ class bankCount:
         self.countDict = collections.OrderedDict()
         self.shopList = ''
         self.payMoney = 0
-        print '欢迎下次光临，再见！'
+        print '欢迎下次光临，再见！'.decode('utf-8').encode(types)
         time.sleep(2)
         sys.exit()
 a = bankCount()
