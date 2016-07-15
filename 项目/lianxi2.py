@@ -1,13 +1,5 @@
 #-*-coding:utf-8-*-
 
-import sys,time,re,collections,md5,hashlib
-
-hashs = hashlib.md5()
-
-hashs.update('admin')
-b = hashs.hexdigest()
-print b
-hashss = hashlib.md5()
-hashss.update('admin')
-a =  hashss.hexdigest()
-print a
+print str('的的圣诞树').decode('utf-8').encode('utf-8')
+print 'sdsdsds'.decode('utf-8')
+print 's\dsd\121221\sds'.decode('utf-8')

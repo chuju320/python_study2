@@ -1,0 +1,2618 @@
+本地创建任务：
+
+NQM-378 人员调配功能列表导出
+  本地创建任务：
+
+NQM-378 人员调配功能列表导出
+      
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+      本地创建任务：
+
+NQM-378 人员调配功能列表导出
+  
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+  
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+  本地创建任务：
+
+NQM-378 人员调配功能列表导出
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 本地创建任务：
+
+NQM-378 人员调配功能列表导出
+          
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+          
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+          
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+          
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+          本地创建任务：
+
+NQM-378 人员调配功能列表导出
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 本地创建任务：
+
+NQM-378 人员调配功能列表导出
+  
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+  
+NQM-368 修改上报图片上传功能
+  
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+  
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+  
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+  
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+  本地创建任务：
+
+NQM-378 人员调配功能列表导出
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-368 修改上报图片上传功能
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+ 本地创建任务：
+
+NQM-378 人员调配功能列表导出
+     
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+     
+NQM-368 修改上报图片上传功能
+     
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+     
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+     
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+     
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+     
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+     
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+     本地创建任务：
+
+NQM-378 人员调配功能列表导出
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-368 修改上报图片上传功能
+ 
+NQM-358 十堰太和医院上报表单导出界面实现
+ 
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+ 本地创建任务：
+
+NQM-378 人员调配功能列表导出
+        
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+        
+NQM-368 修改上报图片上传功能
+        
+NQM-356 本溪金山上报事件字体修改
+        
+NQM-358 十堰太和医院上报表单导出界面实现
+        
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+        
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+        
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+        
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+        
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+        
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+        本地创建任务：
+
+NQM-378 人员调配功能列表导出
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-368 修改上报图片上传功能
+ 
+NQM-356 本溪金山上报事件字体修改
+ 
+NQM-358 十堰太和医院上报表单导出界面实现
+ 
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 
+NQM-352 修改上报图片上传功能 （IOS）
+ 
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+ 本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-378 人员调配功能列表导出
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-368 修改上报图片上传功能
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-356 本溪金山上报事件字体修改
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-358 十堰太和医院上报表单导出界面实现
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-352 修改上报图片上传功能 （IOS）
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+   SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607120910_SYS_OPERATION_INSERT.SQL, 
+         本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-378 人员调配功能列表导出
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-368 修改上报图片上传功能
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-356 本溪金山上报事件字体修改
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-358 十堰太和医院上报表单导出界面实现
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-352 修改上报图片上传功能 （IOS）
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+       SQL\\6NURSINGINDEX\\0DDL\\0TABLE\\201607071006_INDICATE_RECORD_CS_ALERT.SQL'
+本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+ 
+NQM-378 人员调配功能列表导出
+ 
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-368 修改上报图片上传功能
+ 
+NQM-356 本溪金山上报事件字体修改
+ 
+NQM-358 十堰太和医院上报表单导出界面实现
+ 
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 
+NQM-352 修改上报图片上传功能 （IOS）
+ 
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+ 本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+                   
+NQM-378 人员调配功能列表导出
+                   
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+                   
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+                   
+NQM-368 修改上报图片上传功能
+                   
+NQM-356 本溪金山上报事件字体修改
+                   
+NQM-358 十堰太和医院上报表单导出界面实现
+                   
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+                   
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+                   
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+                   
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+                   
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+                   
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+                   
+NQM-352 修改上报图片上传功能 （IOS）
+                   
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+                   
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+                   本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+   
+NQM-378 人员调配功能列表导出
+   
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+   
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+   
+NQM-368 修改上报图片上传功能
+   
+NQM-356 本溪金山上报事件字体修改
+   
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+   
+NQM-358 十堰太和医院上报表单导出界面实现
+   
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+   
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+   
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+   
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+   
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+   
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+   
+NQM-352 修改上报图片上传功能 （IOS）
+   
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+   
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+   本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-378 人员调配功能列表导出
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-368 修改上报图片上传功能
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-356 本溪金山上报事件字体修改
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-358 十堰太和医院上报表单导出界面实现
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-352 修改上报图片上传功能 （IOS）
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+             SQL\\2PERSONALMANAGEMENT\\1DATA\\201607111951_PER_INFO_TYPE_DETAIL_INSERT.sql 
+  本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+  
+NQM-378 人员调配功能列表导出
+  
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+  
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+  
+NQM-368 修改上报图片上传功能
+  
+NQM-356 本溪金山上报事件字体修改
+  
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+  
+NQM-358 十堰太和医院上报表单导出界面实现
+  
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+  
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+  
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+  
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+  
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+  
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+  
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+  
+NQM-352 修改上报图片上传功能 （IOS）
+  
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+  
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+  
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+  本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+    
+NQM-378 人员调配功能列表导出
+    
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+    
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+    
+NQM-368 修改上报图片上传功能
+    
+NQM-356 本溪金山上报事件字体修改
+    
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+    
+NQM-358 十堰太和医院上报表单导出界面实现
+    
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+    
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+    
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+    
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+    
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+    
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+    
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+    
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+    
+NQM-352 修改上报图片上传功能 （IOS）
+    
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+    
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+    
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+    本地创建任务：
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+     
+NQM-378 人员调配功能列表导出
+     
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+     
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+     
+NQM-368 修改上报图片上传功能
+     
+NQM-356 本溪金山上报事件字体修改
+     
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+     
+NQM-358 十堰太和医院上报表单导出界面实现
+     
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+     
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+     
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+     
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+     
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+     
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+     
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+     
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+     
+NQM-352 修改上报图片上传功能 （IOS）
+     
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+     
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+     
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+     
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+     本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+  
+NQM-378 人员调配功能列表导出
+  
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+  
+NQM-356 本溪金山上报事件字体修改
+  
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+  
+NQM-358 十堰太和医院上报表单导出界面实现
+  
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+  
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+  
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+  
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+  
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+  
+NQM-352 修改上报图片上传功能 （IOS）
+  
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+  
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+  
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+  
+NQM-368 修改上报图片上传功能
+  
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+  
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+  
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+  
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+  
+NQM-320 长沙市中心医院--离职率统计
+  
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+  本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+ 
+NQM-378 人员调配功能列表导出
+ 
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+ 
+NQM-356 本溪金山上报事件字体修改
+ 
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+ 
+NQM-358 十堰太和医院上报表单导出界面实现
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 
+NQM-311 人员信息查询导出 字段配置不能根据勾选显示相应的列。
+ 
+NQM-352 修改上报图片上传功能 （IOS）
+ 
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+ 
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-368 修改上报图片上传功能
+ 
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+ 
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+ 
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+ 
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+ 
+NQM-320 长沙市中心医院--离职率统计
+ 
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+ 本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+ 
+NQM-378 人员调配功能列表导出
+ 
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+ 
+NQM-356 本溪金山上报事件字体修改
+ 
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+ 
+NQM-358 十堰太和医院上报表单导出界面实现
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 
+NQM-311 人员信息查询导出 字段配置不能根据勾选显示相应的列。
+ 
+NQM-352 修改上报图片上传功能 （IOS）
+ 
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+ 
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-368 修改上报图片上传功能
+ 
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+ 
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+ 
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+ 
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+ 
+NQM-307 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+ 
+NQM-320 长沙市中心医院--离职率统计
+ 
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+ 本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-378 人员调配功能列表导出
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-277 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-356 本溪金山上报事件字体修改
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-358 十堰太和医院上报表单导出界面实现
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-311 人员信息查询导出 字段配置不能根据勾选显示相应的列。
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-352 修改上报图片上传功能 （IOS）
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-368 修改上报图片上传功能
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-307 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-320 长沙市中心医院--离职率统计
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+   SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sqlNurseManager\\Management\\BLL\\ReportingEvent\\ReportInput\\PressReport\\PressReportBll.cs, 
+  SQL\\4ADVERSEEVENTS\\1DATA\\201607061437_Rp_Permission_Delete.sql, 
+SQL\\4ADVERSEEVENTS\\1DATA\\201607061438_Rp_Permission_Insert.sql'
+本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+     
+NQM-378 人员调配功能列表导出
+     
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+     
+NQM-277 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+     
+NQM-356 本溪金山上报事件字体修改
+     
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+     
+NQM-358 十堰太和医院上报表单导出界面实现
+     
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+     
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+     
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+     
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+     
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+     
+NQM-311 人员信息查询导出 字段配置不能根据勾选显示相应的列。
+     
+NQM-352 修改上报图片上传功能 （IOS）
+     
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+     
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+     
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+     
+NQM-368 修改上报图片上传功能
+     
+NQM-269 【湖南人民医院】按照湖南省人民医院需求修改制度管理，形成六级科室树
+     
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+     
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+     
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+     
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+     
+NQM-307 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+     
+NQM-320 长沙市中心医院--离职率统计
+     
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+     本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+ 
+NQM-246 江苏盛泽打印报表修改问题
+ 
+NQM-378 人员调配功能列表导出
+ 
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+ 
+NQM-277 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+ 
+NQM-356 本溪金山上报事件字体修改
+ 
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+ 
+NQM-358 十堰太和医院上报表单导出界面实现
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 
+NQM-311 人员信息查询导出 字段配置不能根据勾选显示相应的列。
+ 
+NQM-352 修改上报图片上传功能 （IOS）
+ 
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+ 
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-368 修改上报图片上传功能
+ 
+NQM-269 【湖南人民医院】按照湖南省人民医院需求修改制度管理，形成六级科室树
+ 
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+ 
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+ 
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+ 
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+ 
+NQM-307 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+ 
+NQM-320 长沙市中心医院--离职率统计
+ 
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+ 本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+   
+NQM-246 江苏盛泽打印报表修改问题
+   
+NQM-378 人员调配功能列表导出
+   
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+   
+NQM-277 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+   
+NQM-356 本溪金山上报事件字体修改
+   
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+   
+NQM-358 十堰太和医院上报表单导出界面实现
+   
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+   
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+   
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+   
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+   
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+   
+NQM-311 人员信息查询导出 字段配置不能根据勾选显示相应的列。
+   
+NQM-352 修改上报图片上传功能 （IOS）
+   
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+   
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+   
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+   
+NQM-368 修改上报图片上传功能
+   
+NQM-269 【湖南人民医院】按照湖南省人民医院需求修改制度管理，形成六级科室树
+   
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+   
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+   
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+   
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+   
+NQM-307 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+   
+NQM-320 长沙市中心医院--离职率统计
+   
+NQM-240 长沙 病区排班字典维护 添加组员时可以添加未启用的人员，建议在添加未启用人员时给个提示。
+   
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+   本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+ 
+NQM-246 江苏盛泽打印报表修改问题
+ 
+NQM-378 人员调配功能列表导出
+ 
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+ 
+NQM-277 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+ 
+NQM-356 本溪金山上报事件字体修改
+ 
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+ 
+NQM-358 十堰太和医院上报表单导出界面实现
+ 
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+ 
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+ 
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+ 
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+ 
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+ 
+NQM-311 人员信息查询导出 字段配置不能根据勾选显示相应的列。
+ 
+NQM-352 修改上报图片上传功能 （IOS）
+ 
+NQM-202 长沙中心医院--人员信息修改
+ 
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+ 
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+ 
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+ 
+NQM-368 修改上报图片上传功能
+ 
+NQM-269 【湖南人民医院】按照湖南省人民医院需求修改制度管理，形成六级科室树
+ 
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+ 
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+ 
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+ 
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+ 
+NQM-307 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+ 
+NQM-320 长沙市中心医院--离职率统计
+ 
+NQM-240 长沙 病区排班字典维护 添加组员时可以添加未启用的人员，建议在添加未启用人员时给个提示。
+ 
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+ 本地创建任务：
+
+NQM-330 胸科医院-不良事件压疮-添加图片上传功能 PC端接口接口实现
+  
+NQM-246 江苏盛泽打印报表修改问题
+  
+NQM-378 人员调配功能列表导出
+  
+NQM-335 长沙市中心医院 跌倒上报 上报病区页面 科室报告人不能自动签名
+  
+NQM-277 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+  
+NQM-356 本溪金山上报事件字体修改
+  
+NQM-331 长沙市中心医院 人员信息查询导出 字段配置 勾选工号查询不出结果。
+  
+NQM-358 十堰太和医院上报表单导出界面实现
+  
+NQM-370 护士长，总护士长，护理部实现PC端图片上传
+  
+NQM-376 护士工作满意度调查结果汇总-新沂 时间控件没有做校验。
+  
+NQM-377 上报模块上传图片窗口，按回车以后，页面出错
+  
+NQM-338 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+  
+NQM-375 pc端 护士长，总护士长页面的上传，预览要去掉。附图
+  
+NQM-311 人员信息查询导出 字段配置不能根据勾选显示相应的列。
+  
+NQM-352 修改上报图片上传功能 （IOS）
+  
+NQM-202 长沙中心医院--人员信息修改
+  
+NQM-126 上报不良事件统计权限调整
+  
+NQM-341 报表统计结果显示为某段时间内全院参与调查的病区 护士工作的满意、较满意、不满意的个数以及满意率；其中调查模板中的基本信息为统计时的查询条件
+  
+NQM-340 合并湖南人民医院指标登记模块修改代码（项目现场开发，无需测试）
+  
+NQM-369 护士长，总护士长，护理部实现IPAD图片上传
+  
+NQM-368 修改上报图片上传功能
+  
+NQM-269 【湖南人民医院】按照湖南省人民医院需求修改制度管理，形成六级科室树
+  
+NQM-367 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示问题
+  
+NQM-361 长沙市中心医院 人员信息查询 不能导出
+  
+NQM-329 胸科医院-不良事件压疮-添加图片上传功能 IOS功能 实现
+  
+NQM-328 允许操作者在【上报报表-护士长】 【上报报表-总护士长】上传照片，并可以预览
+  
+NQM-307 湖北十堰太和 上报系统的列表导出界面修改（重点修改加载类似其他选项后面的文字）
+  
+NQM-320 长沙市中心医院--离职率统计
+  
+NQM-240 长沙 病区排班字典维护 添加组员时可以添加未启用的人员，建议在添加未启用人员时给个提示。
+  
+NQM-326 上报事件管理-上报事件统计中科室列表数据过滤
+  M2015115 哈尔滨市第一医院（一期）
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2015103 新沂市人民医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2015198-随州市中心医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2015192 江苏盛泽医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2015145 上海市胸科医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2014192 桂林医学院附属医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2016022-上海仁济医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2014318 长沙市中心医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ 2012035福建省莆田学院附属医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2015223-襄阳市中心医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2015136 本溪市金山医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ M2015104 广州医科大学附属第三医院
+
+NQM-199 长沙市中心医院--上报事件明细统计
+ 
+NQM-286 预期压疮上报表修改
+ 
+NQM-284 【金山医院】上报事件管理-上报事件统计中科室列表数据过滤
+     
+NQM-285 高危压疮上报表修改
+ 
+NQM-283 【金山医院】排班管理——页面显示内容微调
+       
+NQM-247 报表打印的时候病区电脑需要安装Grid++软件，否则打印不了。
+ 
+NQM-165 胸科医院-不良事件压疮-添加图片上传功能
+ 
+NQM-200 长沙中心医院--事件上报
+  
+NQM-337 多条件查询标题头修改，去除原有的标题头
+  
+NQM-259 多条件查询修改标题头
+    
+NQM-275 满意度-增加护士工作满意度调查模块以及对应统计报表
+  SQL\\5SATISFACTION\\1DATA\\201607121648_SYS_OPERATION_INSERT.SQL'
+
+NQM-357 患者皮肤压疮上报表单护理部质控追踪记录的评分内容不能修改
+ 
+NQM-255 上报表单-护士长页面查询结果问题
+ 
+NQM-254 护理排班字典维护中添加组员功能修改
+        
+NQM-257 新增江苏盛泽人员信息管理TAB页（实习/进修/代培）
+text:u'SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081542_PER_ADVANCED_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081642_PER_DAIPEI_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\0DDL\\0TABLE\\201607081742_PER_TRAINEE_RECORD_CREATE.SQL, 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607081919_PER_CONFIG_INSERT.SQL'
+
+NQM-253 新增 每月科室存在问题分类汇总表
+   SQL\\3QUALITYINSPECTION\\1DATA\\201607111628_SYS_OPERATION_INSERT.sql'
+
+NQM-196 长沙市中心医院--人员信息导出
+text:u'SQL\\2PERSONALMANAGEMENT\\1DATA\\201606281417_SYS_OPERATION_INSERT.sql'
+
+NQM-197 长沙中心医院--人员注销
+     
+NQM-194 长沙市中心医院--离职率统计
+      SQL\\2PERSONALMANAGEMENT\\1DATA\\201606301717_SYS_OPERATION_INSERT.sql'
+
+NQM-238 住院满意度调查、病区自查页面添加被调查护士，患者信息改成自动提取
+text:u'SQL\\5SATISFACTION\\1DATA\\201607111632_IN_SRECORD_INSERT.SQL'
+
+NQM-237 上报事件模块——上报表单-病区——报表打印内容&布局&风格优化
+         
+NQM-236 事件上报——上报事件-病区——界面内容修复
+ 
+NQM-235 排班管理——护理排班记录——复制排班改进
+ 
+NQM-234 排班管理模块——护理排班记录——报表打印修复
+ 
+NQM-233 排班管理模块——护理排班记录——人员显示顺序改进
+      
+NQM-232 人员管理模块-基础信息-指定数据添加权限控制
+  
+NQM-180 不良事件上报--压疮预报表
+ 
+NQM-176 上海仁济医院安全测评系统修改
+ 
+NQM-177 不良事件上报--针对所有不良事件上报表单
+ 
+NQM-392 护理质量管理系统安全隐患
+ 
+NQM-272 修改上报事件列表导出、进修人员需求
+ 
+NQM-195 长沙市中心医院--科室人员信息查询
+       
+NQM-204 长沙中心医院--护士排班管理--晚夜班费用统计
+          SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051723_RKL_WARD_SCHEDULE_RELATION_ALTER.SQL, 
+SQL\\7SCHEDULINGMANAGEMENT\\0DDL\\0TABLE\\201607051730_RKL_NIGHT_SALARY_ALTER.SQL'
+
+NQM-120 针对护理质量检查以及上报不良事件模块需求调整
+ 
+NQM-201 长沙市中心医院--科室权限设置
+ 
+NQM-274 满意度-增加医技人员对护士工作满意度调查分析汇总表
+   SQL\\5SATISFACTION\\1DATA\\201607111311_SYS_OPERATION_INSERT.SQL'
+
+NQM-198 长沙中心医院--权限设置
+ 
+NQM-203 长沙中心医院--新增人员
+    
+NQM-261 上报统计功能问题修改
+  
+NQM-262 桂林医学院护理质量上报事件bug
+ 
+NQM-263 修改排班记录打印显示层级而非能级问题
+ 
+NQM-264 护理质量质量管理检查-原因分析与跟踪检查bug
+ 
+NQM-265 护理质量持续改进管理增加查询全部未下发项目需求
+ 
+NQM-266 护理质量ipad检查评估功能修改
+ 
+NQM-267 上报事件统计数据表格问题
+  
+NQM-215 调整职称/能级和护理/教学职称TAB页 专科小组修改学组
+ \u4e0b\u9762sql\u811a\u672c\u4e0d\u5728\u6d4b\u8bd5\u5e93\u4e2d\u6267\u884c\uff0c\u76f4\u63a5\u4e0a\u4f20\u6d4b\u8bd5\u5e93 \uff0c\u5e76\u63d0\u4f9b\u7ed9\u6c5f\u82cf\u76db\u6cfd\u9879\u76ee\u73b0\u573a\uff0c 
+SQL\\2PERSONALMANAGEMENT\\1DATA\\201607011951_PER_INFO_TYPE_DETAIL_INSERT.sql'
+
+NQM-366 人员调配功能列表导出问题
+  
+NQM-360 实现pc端“上传图片”与ipad端“上传”与“拍照”按钮隐藏与显示
+  
+NQM-185 不良事件上报--静脉不良事件
+ 
+NQM-184 不良事件上报--难免压疮上报
+ 
+NQM-178 不良事件上报--不良事件上报
+ 
+NQM-222 人员档案模块六个前台显示调整，具体见文件描述
+    SQL\\1SYSTEMMANAGEMENT\\1DATA\\201607071810_SYS_OPERATION_INSERT.SQL,'
+
+NQM-224 多条件查询 查询科室职务失败 字典维护进行批量保存 人员信息授课交流TAB页存在两个内容类型
+ 
+NQM-226 人员调配回写his问题
+ 
+NQM-301 【出院满意度任务设置】分配病人失败
+ 
